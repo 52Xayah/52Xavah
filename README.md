@@ -1,5 +1,3 @@
-# 52Xavah
-Personal GitHub profile and developer portfolio.
 # Hi, I'm Xavah 👋
 
 ### Software Engineering Student | C++ Developer
